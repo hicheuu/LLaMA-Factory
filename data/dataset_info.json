@@ -33,7 +33,7 @@
     }
   },
   "kookmin": {
-    "file_name": "kookmin.json",
+    "file_name": "data/kookmin.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
