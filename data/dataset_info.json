@@ -32,6 +32,16 @@
       "history": "history"
     }
   },
+  "kookmin": {
+    "file_name": "kookmin.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+
   "glaive_toolcall": {
     "file_name": "glaive_toolcall_10k.json",
     "formatting": "sharegpt",
@@ -261,6 +271,7 @@
       "assistant_tag": "assistant"
     }
   },
+  
   "oasst_de": {
     "hf_hub_url": "mayflowergmbh/oasst_de"
   },

@@ -1,0 +1,12 @@
+[
+  {
+    "instruction": "What clubs are there in the Department of Electronics Engineering at Kookmin University?",
+    "input": "",
+    "output": "In the Department of Electronics Engineering at Kookmin University, there are clubs such as Comsil, Hanuri, and Elco."
+  },
+  {
+    "instruction": "Please tell me about the academic clubs at Kookmin University.",
+    "input": "",
+    "output": "The academic clubs at Kookmin University include Comsil and Elco."
+  }
+]
